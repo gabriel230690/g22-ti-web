@@ -81,7 +81,7 @@
     <div class="container">
         <div class="row">
             <div class="overview col-md-8 col-sm-12 col-xs-12">
-                <h2 class="title">Especializada no desenvolvimento de aplicativos para dispositivos móveis</h2>
+                <h2 class="title">Especializada no desenvolvimento de aplicativos para dispositivos mobile</h2>
                 <ul class="summary">
                     <li>Desenvolvimento para iOS</li>
                     <li>Desenvolvimento para Android</li>
