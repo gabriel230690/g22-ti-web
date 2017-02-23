@@ -71,11 +71,17 @@ jQuery(document).ready(function ($) {
 
 
     $('#btnMensagem').on('click', function (e) {
- 
+
+        if ($("#name").val() == "" || $("#email").val() == "" || $("#telefone").val() == "" || $("#message").val() == "") {
+            alert("Todas as informações são obrigatórias.");
+            return false;
+        }
+
         $.ajax({
             data: {
                 name: $("#name").val(),
                 email: $("#email").val(),
+                telefone: $("#telefone").val(),
                 message: $("#message").val()
             },
             type: 'POST',

@@ -21,12 +21,14 @@ $caixaPostalServidorSenha = 'chacabuco02';
 
 $remetenteNome = $_POST['name'];
 $remetenteEmail = $_POST['email'];
+$telefone = $_POST['telefone'];
 $assunto = ' Nova mensagem no site da G22 TI ';
 $mensagem = $_POST['message'];
 
-$mensagemConcatenada  = '-------------------------------<br/>';
+$mensagemConcatenada = '-------------------------------<br/>';
 $mensagemConcatenada .= 'Nome: ' . $remetenteNome . '<br/>';
 $mensagemConcatenada .= 'E-mail: ' . $remetenteEmail . '<br/>';
+$mensagemConcatenada .= 'Telefone: ' . $telefone . '<br/>';
 $mensagemConcatenada .= 'Assunto: ' . $assunto . '<br/>';
 $mensagemConcatenada .= '-------------------------------<br/><br/>';
 $mensagemConcatenada .= 'Mensagem: ' . $mensagem . ' <br/>';

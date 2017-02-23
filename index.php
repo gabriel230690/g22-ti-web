@@ -386,6 +386,10 @@
                         <label class="sr-only" for="email">Email</label>
                         <input id="email" type="email" class="form-control" placeholder="Email:">
                     </div>
+                    <div class="form-group telefone">
+                        <label class="sr-only" for="telefone">Telefone</label>
+                        <input id="telefone" type="telefone" class="form-control" placeholder="Telefone com DDD:">
+                    </div>
                     <!--//form-group-->
                     <div class="form-group message">
                         <label class="sr-only" for="message">Mensagem</label>
@@ -419,55 +423,6 @@
 </footer>
 <!--//footer-->
 
-<!-- Feature Modal -->
-<div class="modal modal-feature" id="feature-modal-1" tabindex="-1" role="dialog" aria-labelledby="featureModalLabel-1"
-     aria-hidden="true">
-    <div class="modal-dialog modal-lg">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                <h4 id="featureModalLabel-1" class="modal-title text-center">App Feature and Benefit</h4>
-            </div>
-            <div class="modal-body">
-                <div class="row">
-                    <figure class="figure col-md-6 col-sm-12 col-xs-12">
-                        <img class="img-responsive img-rounded" src="assets/images/features/feature-figure-1.png"
-                             alt=""/>
-                        <figcaption class="caption">Figure caption goes here</figcaption>
-                    </figure>
-                    <div class="content col-md-6 col-sm-12 col-xs-12">
-                        <p>You can use the modal to explain one of your app's features/benefits in details. Lorem ipsum
-                            dolor sit amet, consectetuer adipiscing elit. </p>
-
-                        <p>In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede
-                            mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. </p>
-                        <ul class="list-unstyled">
-                            <li><i class="fa fa-star"></i>Lorem ipsum dolor sit ame</li>
-                            <li><i class="fa fa-star"></i>Curabitur elit elit</li>
-                            <li><i class="fa fa-star"></i>Nunc tincidunt ipsum a risus</li>
-                        </ul>
-                        <p>Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa
-                            quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.</p>
-                        <blockquote class="quote">
-                            <p><i class="fa fa-quote-left"></i>I love this magna pellentesque in magnis gravida sit
-                                augue felis vehicula vestibulum semper penatibus justo ornare semper Gravida felis
-                                platea arcu mus non. Montes at posuere. Natoque.</p>
-
-                            <p class="people"><span class="name">Adam Lee</span><br><span class="title">Developer, AppHunt</span>
-                            </p>
-                        </blockquote>
-                    </div>
-                    <!--//content-->
-                </div>
-                <!--//row-->
-            </div>
-            <!--//modal-body-->
-        </div>
-        <!--//modal-content-->
-    </div>
-    <!--//modal-dialog-->
-</div>
-<!--//modal-->
 
 
 <!-- Javascript -->
