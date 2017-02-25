@@ -134,6 +134,9 @@
                                 <li>
                                     <img src="assets/images/iphone/iphone-slide-3.png" alt=""/>
                                 </li>
+                                <li>
+                                    <img src="assets/images/iphone/iphone-slide-4.png" alt=""/>
+                                </li>
                             </ul>
                             <!--//slides-->
                         </div>
