@@ -230,6 +230,38 @@
         <div class="row">
             <h2 class="title text-center">Clientes</h2>
 
+
+            <div class="item col-md-4 col-sm-4">
+                <div class="quote-box">
+
+                    <blockquote class="quote">
+                        <a href="https://www.facebook.com/SaldoTextilBrasil/?fref=ts" target="_blank"/>
+                        @Saldo Têxtil</a> Agora ficou mais fácil e rápido comprar/vender seu Saldo de Malha/Tecidos e de
+                        Confecção.
+                        <br/>
+                        <a href="https://goo.gl/j8Hd5b" target="_blank"
+                           style="cursor:pointer;"> iOS </a>
+                        &nbsp;
+                        <a href="https://goo.gl/Q0Rd2D" target="_blank"
+                           style="cursor:pointer;"> Android </a>
+
+                    </blockquote>
+                    <!--//quote-->
+                </div>
+                <!--//quote-box-->
+                <div class="people row">
+                    <img class="img-rounded user-pic col-md-5 col-sm-5 col-xs-12 col-md-offset-1 col-sm-offset-1"
+                         src="assets/images/clientes/eo.jpg" alt=""/>
+
+                    <p class="details text-center pull-left">
+                        <span class="name">Saldo Têxtil</span>
+                        <span class="title">Jaraguá do Sul, SC</span>
+                    </p>
+                </div>
+                <!--//people-->
+            </div>
+
+
             <div class="item col-md-4 col-sm-4">
                 <div class="quote-box">
 
