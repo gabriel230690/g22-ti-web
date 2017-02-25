@@ -529,7 +529,7 @@
                 <p>Tem interesse em nossos serviços? Faça seu orçamento sem compromisso agora mesmo.</p>
                 <ul class="list-unstyled contact-details">
                     <li><i class="fa fa-envelope"></i><a href="mailto:hello@website.com">contato@g22ti.com.br</a></li>
-                    <li><i class="fa fa-phone-square"></i>(47) 9194-4696</li>
+                    <li><i class="fa fa-phone-square"></i>(47) 99194-4696</li>
                 </ul>
             </div>
         </div>
