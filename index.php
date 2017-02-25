@@ -449,6 +449,36 @@
                 <!--//people-->
             </div>
 
+            <div class="item col-md-4 col-sm-4">
+                <div class="quote-box">
+                    <blockquote class="quote">
+                        <a href="https://www.facebook.com/monsantobrasil/?fref=ts" target="_blank">@Monsanto</a> Uma
+                        empresa que desenvolve soluções integradas e seguras para produtores, colaborando com o avanço
+                        responsável da agricultura e da produção de alimentos.
+                        <br/>
+                        <a href="https://goo.gl/c5BR0d" target="_blank"
+                           style="cursor:pointer;"> iOS </a>
+                        &nbsp;
+                        <a href="https://goo.gl/HGP3OT" target="_blank"
+                           style="cursor:pointer;"> Android </a>
+
+
+                    </blockquote>
+                    <!--//quote-->
+                </div>
+                <!--//quote-box-->
+                <div class="people row">
+                    <img class="img-rounded user-pic col-md-5 col-sm-5 col-xs-12 col-md-offset-1 col-sm-offset-1"
+                         src="assets/images/clientes/monsanto.png" alt=""/>
+
+                    <p class="details text-center pull-left">
+                        <span class="name">SCI</span>
+                        <span class="title">São Paulo, SP</span>
+                    </p>
+                </div>
+                <!--//people-->
+            </div>
+
 
         </div>
 
