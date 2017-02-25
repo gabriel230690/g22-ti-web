@@ -472,7 +472,39 @@
                          src="assets/images/clientes/monsanto.png" alt=""/>
 
                     <p class="details text-center pull-left">
-                        <span class="name">SCI</span>
+                        <span class="name">Monsanto Dialoga</span>
+                        <span class="title">São Paulo, SP</span>
+                    </p>
+                </div>
+                <!--//people-->
+            </div>
+
+
+            <div class="item col-md-4 col-sm-4">
+                <div class="quote-box">
+                    <blockquote class="quote">
+                        <a href="https://www.facebook.com/Trendix/" target="_blank">@Trendix</a> A
+                        Trendix é uma agência que atua em quatro áreas: eventos corporativos, marketing promocional,
+                        atividades motivacionais e ações de relacionamento. Cria experiência com marcas, motiva pessoas
+                        e leva inovação ao mercado de eventos.
+                        <br/>
+                        <a href="https://goo.gl/HpsqOk" target="_blank"
+                           style="cursor:pointer;"> iOS </a>
+                        &nbsp;
+                        <a href="https://goo.gl/cz7oMZ" target="_blank"
+                           style="cursor:pointer;"> Android </a>
+
+
+                    </blockquote>
+                    <!--//quote-->
+                </div>
+                <!--//quote-box-->
+                <div class="people row">
+                    <img class="img-rounded user-pic col-md-5 col-sm-5 col-xs-12 col-md-offset-1 col-sm-offset-1"
+                         src="assets/images/clientes/trendix.jpeg" alt=""/>
+
+                    <p class="details text-center pull-left">
+                        <span class="name">Appix</span>
                         <span class="title">São Paulo, SP</span>
                     </p>
                 </div>
