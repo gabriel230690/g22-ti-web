@@ -416,6 +416,42 @@
             </div>
             <!--//item-->
         </div>
+
+        <div class="row">
+
+            <div class="item col-md-4 col-sm-4">
+                <div class="quote-box">
+                    <blockquote class="quote">
+                        <a href="https://www.facebook.com/scisistemascontabeis/?fref=ts" target="_blank">@SCI</a> A SCI
+                        Sistemas Contábeis está sempre desenvolvendo tecnologias com foco na produtividade e economia
+                        das empresas contábeis.
+                        <br/>
+                        <a href="https://goo.gl/goCme5" target="_blank"
+                           style="cursor:pointer;"> iOS </a>
+                        &nbsp;
+                        <a href="https://goo.gl/Bkprzy" target="_blank"
+                           style="cursor:pointer;"> Android </a>
+
+
+                    </blockquote>
+                    <!--//quote-->
+                </div>
+                <!--//quote-box-->
+                <div class="people row">
+                    <img class="img-rounded user-pic col-md-5 col-sm-5 col-xs-12 col-md-offset-1 col-sm-offset-1"
+                         src="assets/images/clientes/sci.jpg" alt=""/>
+
+                    <p class="details text-center pull-left">
+                        <span class="name">SCI</span>
+                        <span class="title">Blumenau, SC</span>
+                    </p>
+                </div>
+                <!--//people-->
+            </div>
+
+
+        </div>
+
     </div>
     <!--//container-->
 </section>
