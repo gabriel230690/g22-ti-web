@@ -137,6 +137,21 @@
                                 <li>
                                     <img src="assets/images/iphone/iphone-slide-4.png" alt=""/>
                                 </li>
+                                <li>
+                                    <img src="assets/images/iphone/iphone-slide-5.png" alt=""/>
+                                </li>
+                                <li>
+                                    <img src="assets/images/iphone/iphone-slide-6.png" alt=""/>
+                                </li>
+                                <li>
+                                    <img src="assets/images/iphone/iphone-slide-7.png" alt=""/>
+                                </li>
+                                <li>
+                                    <img src="assets/images/iphone/iphone-slide-8.png" alt=""/>
+                                </li>
+                                <li>
+                                    <img src="assets/images/iphone/iphone-slide-9.png" alt=""/>
+                                </li>
                             </ul>
                             <!--//slides-->
                         </div>
