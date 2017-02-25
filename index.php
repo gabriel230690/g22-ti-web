@@ -251,7 +251,7 @@
                 <!--//quote-box-->
                 <div class="people row">
                     <img class="img-rounded user-pic col-md-5 col-sm-5 col-xs-12 col-md-offset-1 col-sm-offset-1"
-                         src="assets/images/clientes/saldo_textil.jpeg.jpg" alt=""/>
+                         src="assets/images/clientes/saldo_textil.jpeg" alt=""/>
 
                     <p class="details text-center pull-left">
                         <span class="name">Saldo Têxtil</span>
@@ -355,7 +355,7 @@
             </div>
             <!--//item-->
 
-            <div class="item col-md-4 col-sm-4 col-md-offset-2 col-sm-offset-2">
+            <div class="item col-md-4 col-sm-4">
                 <div class="quote-box">
                     <blockquote class="quote">
                         <a href="https://www.facebook.com/TOP-LINE-Formaturas-455807427783789/?fref=ts" target="_blank">@Top
