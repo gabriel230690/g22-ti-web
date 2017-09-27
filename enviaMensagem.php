@@ -24,6 +24,7 @@ $remetenteEmail = $_POST['email'];
 $telefone = $_POST['telefone'];
 $assunto = ' Nova mensagem no site da G22 TI ';
 $mensagem = $_POST['message'];
+$email_remetente = "contato@g22ti.com.br";
 
 $mensagemConcatenada = '-------------------------------<br/>';
 $mensagemConcatenada .= 'Nome: ' . $remetenteNome . '<br/>';
@@ -34,7 +35,9 @@ $mensagemConcatenada .= '-------------------------------<br/><br/>';
 $mensagemConcatenada .= 'Mensagem: ' . $mensagem . ' <br/>';
 
 
-$vr_flg_envio = mail("contato@g22ti.com.br", $assunto, nl2br($mensagemConcatenada), "");
+$email_headers = implode("\n", array("From: $email_remetente", "Reply-To: $email_remetente", "Return-Path: $email_remetente", "MIME-Version: 1.0", "X-Priority: 3", "Content-Type: text/html; charset=UTF-8"));
+
+$vr_flg_envio = mail("contato@g22ti.com.br", $assunto, nl2br($mensagemConcatenada), $email_headers);
 
 
 if (!$vr_flg_envio) {
