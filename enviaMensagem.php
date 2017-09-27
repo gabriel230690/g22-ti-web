@@ -34,29 +34,10 @@ $mensagemConcatenada .= '-------------------------------<br/><br/>';
 $mensagemConcatenada .= 'Mensagem: ' . $mensagem . ' <br/>';
 
 
-/*********************************** A PARTIR DAQUI NAO ALTERAR ************************************/
-
-require_once('PHPMailer-master/PHPMailerAutoload.php');
-
-$mail = new PHPMailer();
-
-$mail->IsSMTP();
-$mail->SMTPAuth = true;
-$mail->Charset = 'utf8_decode()';
-$mail->Host = 'smtp.' . substr(strstr($caixaPostalServidorEmail, '@'), 1);
-$mail->Port = '587';
-$mail->Username = $caixaPostalServidorEmail;
-$mail->Password = $caixaPostalServidorSenha;
-$mail->From = $caixaPostalServidorEmail;
-$mail->FromName = utf8_decode($caixaPostalServidorNome);
-$mail->IsHTML(true);
-$mail->Subject = utf8_decode($assunto);
-$mail->Body = utf8_decode($mensagemConcatenada);
+$vr_flg_envio = mail("contato@g22ti.com.br", $assunto, nl2br($mensagemConcatenada), "");
 
 
-$mail->AddAddress($enviaFormularioParaEmail, utf8_decode($enviaFormularioParaNome));
-
-if (!$mail->Send()) {
+if (!$vr_flg_envio) {
     $mensagemRetorno = 'Erro ao enviar formulário: ' . $mail->ErrorInfo;
 } else {
     $mensagemRetorno = 'Formulário enviado com sucesso!';

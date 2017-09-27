@@ -314,27 +314,29 @@
             <div class="item col-md-4 col-sm-4">
                 <div class="quote-box">
                     <blockquote class="quote">
-                        <a href="https://www.facebook.com/appfaminto/" target="_blank">@Faminto</a> Você mudará seu
-                        conceito sobre pedidos Delivery no Litoral do RS!
+                        <a href="https://www.facebook.com/appfaminto/" target="_blank">@Tax Group</a> Identifica a
+                        tributação de produtos comercializados em supermercados a partir da sua descrição ou da leitura
+                        do código de barras do produto.
+
                         <br/>
-                        <a href="https://itunes.apple.com/br/app/faminto/id1125449453?mt=8" target="_blank"
+                        <a href="https://itunes.apple.com/br/app/tax-group/id1235687280?mt=8" target="_blank"
                            style="cursor:pointer;"> iOS </a>
                         &nbsp;
-                        <a href="https://play.google.com/store/apps/details?id=com.faminto.b" target="_blank"
+                        <a href="https://play.google.com/store/apps/details?id=com.taxgroup&hl=pt" target="_blank"
                            style="cursor:pointer;"> Android </a>
 
 
-                    </blockquote>
+                    </blockquote> 
                     <!--//quote-->
                 </div>
                 <!--//quote-box-->
                 <div class="people row">
                     <img class="img-rounded user-pic col-md-5 col-sm-5 col-xs-12 col-md-offset-1 col-sm-offset-1"
-                         src="assets/images/clientes/faminto.png" alt=""/>
+                         src="assets/images/clientes/taxgroup.png" alt=""/>
 
                     <p class="details text-center pull-left">
-                        <span class="name">Faminto</span>
-                        <span class="title">Capão da Canoa, RS</span>
+                        <span class="name">Tax Group</span>
+                        <span class="title">Porto Alegre, RS</span>
                     </p>
                 </div>
                 <!--//people-->
