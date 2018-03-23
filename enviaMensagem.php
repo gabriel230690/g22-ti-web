@@ -31,7 +31,7 @@ $vr_flg_envio = mail("contato@g22ti.com.br", $assunto, nl2br($mensagemConcatenad
 
 
 if (!$vr_flg_envio) {
-    echo $mensagemRetorno = 'Erro ao enviar formulário: ' . $mail->ErrorInfo;
+    echo 'Erro ao enviar formulário: ' . $mail->ErrorInfo;
 } else {
-    echo $mensagemRetorno = 'Formulário enviado com sucesso!';
+    echo 'Formulário enviado com sucesso!';
 }
