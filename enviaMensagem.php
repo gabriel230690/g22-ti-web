@@ -12,7 +12,7 @@ $remetenteEmail = $_POST['email'];
 $telefone = $_POST['telefone'];
 $assunto = ' Nova mensagem no site da G22 TI ';
 $mensagem = $_POST['message'];
-$email_remetente = "contato@g22ti.com.br";
+$email_remetente = "g22ti@g22ti.com.br";
 
 $mensagemConcatenada = '-------------------------------<br/>';
 $mensagemConcatenada .= 'Nome: ' . $remetenteNome . '<br/>';
