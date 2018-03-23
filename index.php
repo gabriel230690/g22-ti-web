@@ -570,7 +570,7 @@
                         <textarea id="message" class="form-control" rows="6" placeholder="Mensagem:"></textarea>
                     </div>
                     <!--//form-group-->
-                    <button type="submit" id="btnMensagem" class="btn btn-lg btn-theme">Enviar Mensagem</button>
+                    <button type="button" id="btnMensagem" class="btn btn-lg btn-theme">Enviar Mensagem</button>
                 </form>
                 <!--//form-->
             </div>
