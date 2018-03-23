@@ -7,16 +7,6 @@
  */
 
 
-/*** INÍCIO - DADOS A SEREM ALTERADOS DE ACORDO COM SUAS CONFIGURAÇÕES DE E-MAIL ***/
-
-$enviaFormularioParaNome = 'Gabriel';
-$enviaFormularioParaEmail = 'contato@g22ti.com.br';
-
-$caixaPostalServidorNome = 'WebSite';
-$caixaPostalServidorEmail = 'contato@g22ti.com.br';
-$caixaPostalServidorSenha = 'chacabuco02';
-
-
 /* abaixo as veriaveis principais, que devem conter em seu formulario*/
 
 $remetenteNome = $_POST['name'];
@@ -41,7 +31,7 @@ $vr_flg_envio = mail("contato@g22ti.com.br", $assunto, nl2br($mensagemConcatenad
 
 
 if (!$vr_flg_envio) {
-    $mensagemRetorno = 'Erro ao enviar formulário: ' . $mail->ErrorInfo;
+    echo $mensagemRetorno = 'Erro ao enviar formulário: ' . $mail->ErrorInfo;
 } else {
-    $mensagemRetorno = 'Formulário enviado com sucesso!';
+    echo $mensagemRetorno = 'Formulário enviado com sucesso!';
 }
