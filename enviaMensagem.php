@@ -6,8 +6,7 @@
  * Time: 19:05
  */
 
-
-/* abaixo as veriaveis principais, que devem conter em seu formulario*/
+/*
 
 $remetenteNome = $_POST['name'];
 $remetenteEmail = $_POST['email'];
@@ -34,3 +33,7 @@ if (!$vr_flg_envio) {
 } else {
     echo 'Formulário enviado com sucesso!';
 }
+
+*/
+
+echo "TESTE";
