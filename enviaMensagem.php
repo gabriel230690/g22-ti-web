@@ -6,7 +6,6 @@
  * Time: 19:05
  */
 
-/*
 
 $remetenteNome = $_POST['name'];
 $remetenteEmail = $_POST['email'];
@@ -33,7 +32,3 @@ if (!$vr_flg_envio) {
 } else {
     echo 'Formulário enviado com sucesso!';
 }
-
-*/
-
-echo "TESTE";
