@@ -65,7 +65,6 @@
                 }
             }
         })();</script>
-    <!-- {/literal} END JIVOSITE CODE -->
 </head>
 
 
@@ -94,9 +93,6 @@
 
             <div class="navbar-collapse collapse" id="navbar-collapse">
                 <ul class="nav navbar-nav">
-                    <!--
-                    <li class="active nav-item sr-only"><a class="scrollto" href="#promo">Home</a></li>
-                    -->
                     <li class="nav-item"><a class="scrollto" href="#promo">Home</a></li>
                     <li class="nav-item"><a class="scrollto" href="#features">Serviços</a></li>
                     <li class="nav-item"><a class="scrollto" href="#testimonials">Clientes</a></li>
@@ -201,7 +197,7 @@
                 <div class="content">
                     <h3 class="title">Desenvolvimento Android</h3>
 
-                    <p>Desenvolvemos aplicativos para a plataforma da Google (Androod). </p>
+                    <p>Desenvolvemos aplicativos para a plataforma da Google (Android). </p>
                 </div>
                 <!--//content-->
             </div>
@@ -241,7 +237,6 @@
     <!--//container-->
 </section>
 <!--//features-->
-
 
 <!-- ******CLIENTES****** -->
 <section id="testimonials" class="testimonials section">
@@ -610,7 +605,7 @@
 <script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="assets/plugins/jquery-inview/jquery.inview.min.js"></script>
 <script type="text/javascript" src="assets/plugins/FitVids/jquery.fitvids.js"></script>
-<script type="text/javascript" src="assets/plugins/jquery-scrollTo/jquery.scrollTo.min.js"></script>
+<script type="text/javascript" src="assets/plugins/jquery.scrollTo.min.js"></script>
 <script type="text/javascript" src="assets/plugins/jquery-placeholder/jquery.placeholder.js"></script>
 <script type="text/javascript" src="assets/plugins/flexslider/jquery.flexslider-min.js"></script>
 <script type="text/javascript" src="assets/plugins/jquery-match-height/jquery.matchHeight-min.js"></script>
