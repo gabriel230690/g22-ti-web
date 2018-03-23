@@ -331,8 +331,6 @@
                 </div>
                 <!--//quote-box-->
                 <div class="people row">
-                    <img class="img-rounded user-pic col-md-5 col-sm-5 col-xs-12 col-md-offset-1 col-sm-offset-1"
-                         src="assets/images/clientes/taxgroup.png" alt=""/>
 
                     <p class="details text-center pull-left">
                         <span class="name">Tax Group</span>

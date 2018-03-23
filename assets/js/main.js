@@ -85,7 +85,7 @@ jQuery(document).ready(function ($) {
                 message: $("#message").val()
             },
             type: 'POST',
-            url: 'enviaMensagem.php',
+            url: '/enviaMensagem.php',
             success: function (data) {
                 alert("Mensagem enviada com sucesso! Em breve entraremos em Contato!");
             }
