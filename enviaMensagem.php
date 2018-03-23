@@ -29,9 +29,8 @@ $email_headers = implode("\n", array("From: $email_remetente", "Reply-To: $email
 
 $vr_flg_envio = mail("contato@g22ti.com.br", $assunto, nl2br($mensagemConcatenada), $email_headers);
 
-
 if (!$vr_flg_envio) {
-    echo 'Erro ao enviar formulário: ' . $mail->ErrorInfo;
+    echo 'Erro ao enviar formulário: ';
 } else {
     echo 'Formulário enviado com sucesso!';
 }
