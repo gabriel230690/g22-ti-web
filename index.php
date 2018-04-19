@@ -11,13 +11,16 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <meta name="description" content="G22 TI - Desenvolvimento de sistemas para pedidos online para qualquer tipo de estabelecimento.">
-    <meta name="keywords" content="sistemas , aplicativos , ios, android, pedidos, delivery, marketplace , restaurante , mercado">
+    <meta name="description"
+          content="G22 TI - Desenvolvimento de sistemas para pedidos online para qualquer tipo de estabelecimento.">
+    <meta name="keywords"
+          content="sistemas , aplicativos , ios, android, pedidos, delivery, marketplace , restaurante , mercado">
     <meta name="author" content="G22 TI">
 
     <link rel="shortcut icon" href="favicon.png"/>
 
-    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic' rel='stylesheet'
+          type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Covered+By+Your+Grace' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/plugins/font-awesome/css/font-awesome.css">
@@ -74,6 +77,11 @@
                     <li class="nav-item"><a class="scrollto" href="#features">Funcionalidades</a></li>
                     <li class="nav-item"><a class="scrollto" href="#testimonials">Clientes</a></li>
                     <li class="nav-item last"><a class="scrollto" href="#contact">Contato</a></li>
+
+                    <li class="nav-item last"><a class="scrollto" href="#"
+                                                 onclick="window.open('http://www.youtube.com/watch?v=r-GXrYFT3DA/');">Video</a>
+                    </li>
+
                     <li class="nav-item last"><a class="scrollto" href="#"
                                                  onclick="window.open('https://ehojeapp.com.br/home/');">Testar</a></li>
                     <li class="nav-item last"><a class="scrollto" href="#"
@@ -84,6 +92,8 @@
                 </ul>
                 <!--//nav-->
             </div>
+
+
             <!--//navabr-collapse-->
         </nav>
         <!--//main-nav-->
@@ -265,7 +275,8 @@
                         @GarconLine</a> Agora fazer o seu pedido nos restaurantes de Brasília vai ser muito mais prático
                         com o app #garçonline você mesmo faz o seu pedido e recebe na mesa ou no conforto da sua casa!
                         <br/>
-                        <a href="https://itunes.apple.com/us/app/gar%C3%A7online/id1289763419?l=es&ls=1&mt=8" target="_blank"
+                        <a href="https://itunes.apple.com/us/app/gar%C3%A7online/id1289763419?l=es&ls=1&mt=8"
+                           target="_blank"
                            style="cursor:pointer;"> iOS </a>
                         &nbsp;
                         <a href="https://play.google.com/store/apps/details?id=com.garconline" target="_blank"
@@ -277,7 +288,7 @@
                 <!--//quote-box-->
                 <div class="people row">
                     <img class="img-rounded user-pic col-md-5 col-sm-5 col-xs-12 col-md-offset-1 col-sm-offset-1"
-                         src="assets/images/clientes/garcon.png"  style="width:40px; height: 40px;" alt=""/>
+                         src="assets/images/clientes/garcon.png" style="width:40px; height: 40px;" alt=""/>
 
                     <p class="details text-center pull-left">
                         <span class="name">GarçonLine</span>
@@ -290,10 +301,12 @@
             <div class="item col-md-4 col-sm-4">
                 <div class="quote-box">
                     <blockquote class="quote">
-                        <a href="https://www.facebook.com/MenuButeco/" target="_blank">@Menu de Buteco</a> App delivery de alimentos e bebidas em Júiz de Fora , MG. Você tem fome de quê?
+                        <a href="https://www.facebook.com/MenuButeco/" target="_blank">@Menu de Buteco</a> App delivery
+                        de alimentos e bebidas em Júiz de Fora , MG. Você tem fome de quê?
 
                         <br/>
-                        <a href="https://itunes.apple.com/us/app/menu-de-buteco/id1317755362?l=es&ls=1&mt=8" target="_blank"
+                        <a href="https://itunes.apple.com/us/app/menu-de-buteco/id1317755362?l=es&ls=1&mt=8"
+                           target="_blank"
                            style="cursor:pointer;"> iOS </a>
                         &nbsp;
                         <a href="https://play.google.com/store/apps/details?id=com.menudebuteco" target="_blank"
@@ -307,7 +320,7 @@
                 <div class="people row">
 
                     <img class="img-rounded user-pic col-md-5 col-sm-5 col-xs-12 col-md-offset-1 col-sm-offset-1"
-                         src="assets/images/clientes/menu_buteco.png"  style="width:40px; height: 40px;" alt=""/>
+                         src="assets/images/clientes/menu_buteco.png" style="width:40px; height: 40px;" alt=""/>
 
 
                     <p class="details text-center pull-left">
@@ -326,7 +339,8 @@
                 <div class="quote-box">
                     <blockquote class="quote">
                         <a href="https://www.facebook.com/homarketapp/" target="_blank"/>
-                        @Homarket</a> O app #homarket veio para facilitar a sua ida ao mercado em Goiânia você pede pelo app e recebe as suas compras em casa!
+                        @Homarket</a> O app #homarket veio para facilitar a sua ida ao mercado em Goiânia você pede pelo
+                        app e recebe as suas compras em casa!
 
                         <br/>
                         <a href="https://itunes.apple.com/us/app/homarket/id1318198491?l=es&ls=1&mt=8" target="_blank"
@@ -357,7 +371,8 @@
                 <div class="quote-box">
                     <blockquote class="quote">
                         <a href="https://www.facebook.com/tubebmcz/" target="_blank">
-                            @TuBeb</a> Diversão por um clique? Aqui na TuBeb achamos uma troca justa, por isso levaremos isso até vocês.  🍺🍸🥂🍷
+                            @TuBeb</a> Diversão por um clique? Aqui na TuBeb achamos uma troca justa, por isso levaremos
+                        isso até vocês. 🍺🍸🥂🍷
                         <br/>
                         <a href="https://itunes.apple.com/us/app/tubeb/id1349310663?l=es&ls=1&mt=8" target="_blank"
                            style="cursor:pointer;"> iOS </a>
@@ -385,7 +400,8 @@
             <div class="item col-md-4 col-sm-4">
                 <div class="quote-box">
                     <blockquote class="quote">
-                        <a href="https://www.facebook.com/foodstu" target="_blank">@FoodStu</a>&nbsp;Aplicativo de alimentação nas universidades.
+                        <a href="https://www.facebook.com/foodstu" target="_blank">@FoodStu</a>&nbsp;Aplicativo de
+                        alimentação nas universidades.
                         Ele vai mudar sua forma de comer na univesidade, peça pelo app e só passe pra pegar.
                         <br/>
                         <a href="https://itunes.apple.com/us/app/foodstu/id1297253087?l=pt&ls=1&mt=8" target="_blank"
@@ -414,7 +430,6 @@
         </div>
 
 
-
     </div>
     <!--//container-->
 </section>
@@ -430,7 +445,8 @@
                 <p>Tem interesse na plataforma ou gostaria de esclarecer alguma dúvida? Entre em contato com a gente
                     agora mesmo.</p>
                 <ul class="list-unstyled contact-details">
-                    <li><i class="fa fa-envelope"></i><a href="mailto:contato@g22ti.com.br">contato@g22ti.com.br</a></li>
+                    <li><i class="fa fa-envelope"></i><a href="mailto:contato@g22ti.com.br">contato@g22ti.com.br</a>
+                    </li>
                     <li><i class="fa fa-phone-square"></i>(47) 99194-4696</li>
                 </ul>
             </div>
