@@ -15,7 +15,7 @@
     <meta name="keywords" content="sistemas , aplicativos , ios, android, pedidos, delivery, marketplace , restaurante , mercado">
     <meta name="author" content="G22 TI">
 
-    <link rel="shortcut icon" href="/favicon.png"/>
+    <link rel="shortcut icon" href="favicon.png"/>
 
     <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Covered+By+Your+Grace' rel='stylesheet' type='text/css'>
