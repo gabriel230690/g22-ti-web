@@ -430,7 +430,7 @@
                 <p>Tem interesse na plataforma ou gostaria de esclarecer alguma dúvida? Entre em contato com a gente
                     agora mesmo.</p>
                 <ul class="list-unstyled contact-details">
-                    <li><i class="fa fa-envelope"></i><a href="mailto:hello@website.com">contato@g22ti.com.br</a></li>
+                    <li><i class="fa fa-envelope"></i><a href="mailto:contato@g22ti.com.br">contato@g22ti.com.br</a></li>
                     <li><i class="fa fa-phone-square"></i>(47) 99194-4696</li>
                 </ul>
             </div>
