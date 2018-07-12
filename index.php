@@ -275,11 +275,9 @@
                         @GarconLine</a> Agora fazer o seu pedido nos restaurantes de Brasília vai ser muito mais prático
                         com o app #garçonline você mesmo faz o seu pedido e recebe na mesa ou no conforto da sua casa!
                         <br/>
-                        <a href="https://itunes.apple.com/us/app/gar%C3%A7online/id1289763419?l=es&ls=1&mt=8"
-                           target="_blank"
-                           style="cursor:pointer;"> iOS </a>
+
                         &nbsp;
-                        <a href="https://play.google.com/store/apps/details?id=com.garconline" target="_blank"
+                        <a href="https://play.google.com/store/apps/details?id=com.garconlineapp" target="_blank"
                            style="cursor:pointer;"> Android </a>
 
                     </blockquote>
@@ -338,15 +336,17 @@
             <div class="item col-md-4 col-sm-4">
                 <div class="quote-box">
                     <blockquote class="quote">
-                        <a href="https://www.facebook.com/homarketapp/" target="_blank"/>
-                        @Homarket</a> O app #homarket veio para facilitar a sua ida ao mercado em Goiânia você pede pelo
+                        <a href="https://www.facebook.com/compreeasy.oficial/" target="_blank"/>
+                        @Compre Easy</a> O app #compreeasy veio para facilitar a sua ida ao mercado em Goiânia você pede
+                        pelo
                         app e recebe as suas compras em casa!
 
                         <br/>
-                        <a href="https://itunes.apple.com/us/app/homarket/id1318198491?l=es&ls=1&mt=8" target="_blank"
+                        <a href="https://itunes.apple.com/us/app/compre-easy/id1386297970?l=es&ls=1&mt=8"
+                           target="_blank"
                            style="cursor:pointer;"> iOS </a>
                         &nbsp;
-                        <a href="https://play.google.com/store/apps/details?id=com.homarketapp" target="_blank"
+                        <a href="https://play.google.com/store/apps/details?id=com.compreeasyapp" target="_blank"
                            style="cursor:pointer;"> Android </a>
 
 
@@ -356,10 +356,10 @@
                 <!--//quote-box-->
                 <div class="people row">
                     <img class="img-rounded user-pic col-md-5 col-sm-5 col-xs-12 col-md-offset-1 col-sm-offset-1"
-                         src="assets/images/clientes/homarket.png" style="height:50px; width:50px;" alt=""/>
+                         src="assets/images/clientes/compreeasy.png" style="height:50px; width:50px;" alt=""/>
 
                     <p class="details text-center pull-left">
-                        <span class="name">Homarket</span>
+                        <span class="name">Compre Easy</span>
                         <span class="title">Goiânia, GO</span>
                     </p>
                 </div>
@@ -400,14 +400,16 @@
             <div class="item col-md-4 col-sm-4">
                 <div class="quote-box">
                     <blockquote class="quote">
-                        <a href="https://www.facebook.com/foodstu" target="_blank">@FoodStu</a>&nbsp;Aplicativo de
-                        alimentação nas universidades.
-                        Ele vai mudar sua forma de comer na univesidade, peça pelo app e só passe pra pegar.
+                        <a href="#" target="_blank">Comida Agora</a>&nbsp;Aplicativo de
+                        alimentação em Sete Lagoas, MG.
+                        Ele vai vai facilitar sua vida, peça pelo app e só passe pra pegar ou receba no conforto da sau
+                        casa.
                         <br/>
-                        <a href="https://itunes.apple.com/us/app/foodstu/id1297253087?l=pt&ls=1&mt=8" target="_blank"
+                        <a href="https://itunes.apple.com/us/app/comida-agora/id1391728084?l=es&ls=1&mt=8"
+                           target="_blank"
                            style="cursor:pointer;"> iOS </a>
                         &nbsp;
-                        <a href="https://play.google.com/store/apps/details?id=com.foodstu" target="_blank"
+                        <a href="https://play.google.com/store/apps/details?id=com.comidanow" target="_blank"
                            style="cursor:pointer;"> Android </a>
 
 
@@ -417,11 +419,11 @@
                 <!--//quote-box-->
                 <div class="people row">
                     <img class="img-rounded user-pic col-md-5 col-sm-5 col-xs-12 col-md-offset-1 col-sm-offset-1"
-                         src="assets/images/clientes/foodstu.jpg" style="height: 50px; width: 50px;"/>
+                         src="assets/images/clientes/comidaagora.jpg" style="height: 50px; width: 50px;"/>
 
                     <p class="details text-center pull-left">
-                        <span class="name">FoodStu</span>
-                        <span class="title">Itajaí, SC</span>
+                        <span class="name">Comida Agora</span>
+                        <span class="title">Sete Lagoas, MG</span>
                     </p>
                 </div>
                 <!--//people-->
@@ -447,7 +449,7 @@
                 <ul class="list-unstyled contact-details">
                     <li><i class="fa fa-envelope"></i><a href="mailto:contato@g22ti.com.br">contato@g22ti.com.br</a>
                     </li>
-                    <li><i class="fa fa-phone-square"></i>(47) 99194-4696</li>
+                    <li><i class="fa fa-phone-square"></i>(47) 99170-1295</li>
                 </ul>
             </div>
         </div>
