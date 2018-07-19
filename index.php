@@ -12,9 +12,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <meta name="description"
-          content="G22 TI - Desenvolvimento de sistemas para pedidos online para qualquer tipo de estabelecimento.">
+          content="G22 TI - Desenvolvimento de sistemas para pedidos online para qualquer tipo de estabelecimento. Construímos plataformas delivery , marketplace, aplicativos e website.">
     <meta name="keywords"
-          content="sistemas , aplicativos , ios, android, pedidos, delivery, marketplace , restaurante , mercado">
+          content="sistemas delivery , aplicativos delivery, app delivery, marketplace , plataforma delivery">
+
     <meta name="author" content="G22 TI">
 
     <link rel="shortcut icon" href="favicon.png"/>
