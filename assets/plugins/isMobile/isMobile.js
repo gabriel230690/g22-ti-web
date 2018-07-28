@@ -7,7 +7,7 @@
  *
  * @author: Kai Mallea (kmallea@gmail.com)
  *
- * @license: http://creativecommons.org/publicdomain/zero/1.0/
+ * @license: https://creativecommons.org/publicdomain/zero/1.0/
  */
 (function (global) {
 

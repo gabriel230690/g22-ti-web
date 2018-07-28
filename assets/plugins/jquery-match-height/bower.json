@@ -3,7 +3,7 @@
     "version": "0.5.2",
     "homepage": "https://github.com/liabru/jquery-match-height",
     "authors": [
-        "Liam Brummitt <liam@brm.io> (http://brm.io/)"
+        "Liam Brummitt <liam@brm.io> (https://brm.io/)"
     ],
     "description": "a more robust, responsive equal heights plugin for jQuery",
     "main": "jquery.matchHeight-min.js",

@@ -8,7 +8,7 @@ __Note:__
 
 GitHub is for *bug reports and contributions only* - if you have a setup question, please be mindful of this and keep your question clear and concise, if you must post it to this repository.
 
-If you are a WooThemes customer, use [WooThemes Support](http://support.woothemes.com). Our ninjas are on hand to assist with your set up query.
+If you are a WooThemes customer, use [WooThemes Support](https://support.woothemes.com). Our ninjas are on hand to assist with your set up query.
 
 ## Getting Started
 
@@ -30,6 +30,6 @@ At this point you're waiting on us to merge your pull request. We'll review all 
 
 # Additional Resources
 
-* [General GitHub documentation](http://help.github.com/)
-* [GitHub pull request documentation](http://help.github.com/send-pull-requests/)
-* [WooThemes Support](http://support.woothemes.com)
+* [General GitHub documentation](https://help.github.com/)
+* [GitHub pull request documentation](https://help.github.com/send-pull-requests/)
+* [WooThemes Support](https://support.woothemes.com)

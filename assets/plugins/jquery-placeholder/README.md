@@ -2,7 +2,7 @@
 
 ## Demo & Examples
 
-[http://mathiasbynens.be/demo/placeholder](http://mathiasbynens.be/demo/placeholder)
+[https://mathiasbynens.be/demo/placeholder](https://mathiasbynens.be/demo/placeholder)
 
 ## Example Usage
 
@@ -11,7 +11,7 @@
 ```html
 <input type="text" name="name" placeholder="e.g. John Doe">
 <input type="email" name="email" placeholder="e.g. address@example.ext">
-<input type="url" name="url" placeholder="e.g. http://mathiasbynens.be/">
+<input type="url" name="url" placeholder="e.g. https://mathiasbynens.be/">
 <input type="tel" name="tel" placeholder="e.g. +32 472 77 69 88">
 <input type="password" name="password" placeholder="e.g. h4x0rpr00fz">
 <input type="search" name="search" placeholder="Search this site…">
@@ -37,11 +37,11 @@ input, textarea { color: #000; }
 .placeholder { color: #aaa; }
 ```
 
-I’d suggest sticking to the `#aaa` color for placeholder text, as it’s the default in most browsers that support `@placeholder`. If you really want to, though, you can [style the placeholder text in some of the browsers that natively support it](http://stackoverflow.com/questions/2610497/change-an-inputs-html5-placeholder-color-with-css/2610741#2610741).
+I’d suggest sticking to the `#aaa` color for placeholder text, as it’s the default in most browsers that support `@placeholder`. If you really want to, though, you can [style the placeholder text in some of the browsers that natively support it](https://stackoverflow.com/questions/2610497/change-an-inputs-html5-placeholder-color-with-css/2610741#2610741).
 
 ## Installation
 
-You can install jquery-placeholder by using [Bower](http://bower.io).
+You can install jquery-placeholder by using [Bower](https://bower.io).
 
 ```bash
 bower install jquery-placeholder
@@ -64,13 +64,13 @@ bower install jquery-placeholder
 
 ## License
 
-This plugin is available under [the MIT license](http://mths.be/mit).
+This plugin is available under [the MIT license](https://mths.be/mit).
 
 ## Thanks to…
 
-* [Paul Irish](http://paulirish.com/) for his inspiring snippet in [jQuery 1.4 Hawtness #1](http://jquery14.com/day-05/jquery-1-4-hawtness-1-with-paul-irish)
-* everyone from [#jquery](http://webchat.freenode.net/?channels=jquery) for the tips, ideas and patches
+* [Paul Irish](https://paulirish.com/) for his inspiring snippet in [jQuery 1.4 Hawtness #1](https://jquery14.com/day-05/jquery-1-4-hawtness-1-with-paul-irish)
+* everyone from [#jquery](https://webchat.freenode.net/?channels=jquery) for the tips, ideas and patches
 * temp01 for his major contributions
 * anyone who [contributed a patch](https://github.com/mathiasbynens/jquery-placeholder/contributors) or [made a helpful suggestion](https://github.com/mathiasbynens/jquery-placeholder/issues)
 
-_– [Mathias](http://mathiasbynens.be/)_
+_– [Mathias](https://mathiasbynens.be/)_

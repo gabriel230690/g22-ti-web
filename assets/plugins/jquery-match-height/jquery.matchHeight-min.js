@@ -1,6 +1,6 @@
 /**
 * jquery.matchHeight-min.js v0.5.2
-* http://brm.io/jquery-match-height/
+* https://brm.io/jquery-match-height/
 * License: MIT
 */
 (function(d){var g=-1,e=-1,n=function(a){var b=null,c=[];d(a).each(function(){var a=d(this),k=a.offset().top-h(a.css("margin-top")),l=0<c.length?c[c.length-1]:null;null===l?c.push(a):1>=Math.floor(Math.abs(b-k))?c[c.length-1]=l.add(a):c.push(a);b=k});return c},h=function(a){return parseFloat(a)||0},b=d.fn.matchHeight=function(a){if("remove"===a){var f=this;this.css("height","");d.each(b._groups,function(a,b){b.elements=b.elements.not(f)});return this}if(1>=this.length)return this;a="undefined"!==

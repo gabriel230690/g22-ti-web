@@ -23,9 +23,9 @@
 
     <link rel="shortcut icon" href="favicon.png"/>
 
-    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic' rel='stylesheet'
+    <link href='https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic' rel='stylesheet'
           type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Covered+By+Your+Grace' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Covered+By+Your+Grace' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/plugins/font-awesome/css/font-awesome.css">
     <link rel="stylesheet" href="assets/plugins/flexslider/flexslider.css">
@@ -83,7 +83,7 @@
                     <li class="nav-item last"><a class="scrollto" href="#contact">Contato</a></li>
 
                     <li class="nav-item last"><a class="scrollto" href="#"
-                                                 onclick="window.open('http://www.youtube.com/watch?v=r-GXrYFT3DA/');">Video</a>
+                                                 onclick="window.open('https://www.youtube.com/watch?v=r-GXrYFT3DA/');">Video</a>
                     </li>
 
                     <li class="nav-item last"><a class="scrollto" href="#"
@@ -489,7 +489,7 @@
         <!--//row-->
         <div class="text-center">
             <ul class="social-icons list-inline">
-                <li><a href="http://facebook.com/g22ti" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                <li><a href="https://facebook.com/g22ti" target="_blank"><i class="fa fa-facebook"></i></a></li>
             </ul>
             <!--//social-icons-->
         </div>

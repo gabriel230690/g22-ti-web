@@ -1,7 +1,7 @@
 [![Gitter chat](https://badges.gitter.im/woothemes/FlexSlider.png)](https://gitter.im/woothemes/FlexSlider)
 
 # FlexSlider 2.6.0
-http://www.woothemes.com/flexslider/ - Copyright (c) 2015 WooThemes
+https://www.woothemes.com/flexslider/ - Copyright (c) 2015 WooThemes
 
 ## Releases
 
@@ -42,7 +42,7 @@ To keep up to date with how FlexSlider's development roadmap looks, please see o
 ** Version 2.2.0 **
 
 - Fixed event handler conflicts with devices that are both click and touch enabled. e.g., Windows 8.
-- Made all slider variables public, stored in `slider.vars`. This allows manipulation of `slider.vars.minItems` and `slider.vars.maxItems` on the fly to create different fluid grids at certain breakpoints. [Check out this example demonstrating a basic technique](http://flexslider.woothemes.com/dynamic-carousel-min-max.html)
+- Made all slider variables public, stored in `slider.vars`. This allows manipulation of `slider.vars.minItems` and `slider.vars.maxItems` on the fly to create different fluid grids at certain breakpoints. [Check out this example demonstrating a basic technique](https://flexslider.woothemes.com/dynamic-carousel-min-max.html)
 - Fixed calculations that were causing strange issues with paging and certain FlexSliders to move out of alignment.
 
 *Be sure to test v2.2.0 with your current slider, before pushing live, to ensure everything is playing nicely.*
@@ -76,14 +76,14 @@ Two new methods are available for adding/removing slides, `slider.addSlide()` an
 
 ## Examples
 
-- [Basic Slider](http://flexslider.woothemes.com/)
-- [Basic Slider customDirectionNav](http://flexslider.woothemes.com/basic-slider-with-custom-direction-nav.html)
-- [Slider w/thumbnail controlNav pattern](http://flexslider.woothemes.com/thumbnail-controlnav.html)
-- [Slider w/thumbnail slider](http://flexslider.woothemes.com/thumbnail-slider.html)
-- [Basic Carousel](http://flexslider.woothemes.com/basic-carousel.html)
-- [Carousel with min and max ranges](http://flexslider.woothemes.com/carousel-min-max.html)
-- [Video with Vimeo API](http://flexslider.woothemes.com/video.html)
-- [Video with Wistia API](http://flexslider.woothemes.com/video-wistia.html)
+- [Basic Slider](https://flexslider.woothemes.com/)
+- [Basic Slider customDirectionNav](https://flexslider.woothemes.com/basic-slider-with-custom-direction-nav.html)
+- [Slider w/thumbnail controlNav pattern](https://flexslider.woothemes.com/thumbnail-controlnav.html)
+- [Slider w/thumbnail slider](https://flexslider.woothemes.com/thumbnail-slider.html)
+- [Basic Carousel](https://flexslider.woothemes.com/basic-carousel.html)
+- [Carousel with min and max ranges](https://flexslider.woothemes.com/carousel-min-max.html)
+- [Video with Vimeo API](https://flexslider.woothemes.com/video.html)
+- [Video with Wistia API](https://flexslider.woothemes.com/video-wistia.html)
 
 
 ## Properties
@@ -102,7 +102,7 @@ The markup structure for FlexSlider has been limited to a "ul.slide li" pattern 
 `easing` allows support for jQuery easing! Default options provided by jQuery are "swing" and "linear," but more can be used by included the jQuery Easing plugin. *If you chose a non-existent easing method, the slider will break.*
 
 *Note: You need to set `useCSS: false` to force transitions in browsers that support translate3d.*
-*Optional: [jQuery Easing Plugin](http://gsgd.co.uk/sandbox/jquery/easing/)*
+*Optional: [jQuery Easing Plugin](https://gsgd.co.uk/sandbox/jquery/easing/)*
 
 ### direction: *{changed}*
 Previously called "slideDirection" in v1.8 and below.
@@ -149,12 +149,12 @@ Previously called "keyboardNav" in v1.8 and below.
 ### customDirectionNav: *{new}*
 `customDirectionNav` allows the ability to add custom directional navigation elements. Can be used in conjunction with controlsContainer for pagination controls container.
 
-*[Example of customDirectionNav being used](http://flexslider.woothemes.com/basic-slider-with-custom-direction-nav.html)*
+*[Example of customDirectionNav being used](https://flexslider.woothemes.com/basic-slider-with-custom-direction-nav.html)*
 
 ### sync: *{new}*
 `sync` is a new property that will allow other slider(s) to hook into the current slider via a given selector. The selector should describe an object that has already been initialized as a FlexSlider. Right now, `sync` will synchronize animation, play, and pause behaviors. More behaviors can be added in the future as the property matures.
 
-*[Example of sync being used](http://flex.madebymufffin.com/examples/basic-carousel.html)*
+*[Example of sync being used](https://flex.madebymufffin.com/examples/basic-carousel.html)*
 
 ### asNavFor: *{new}*
 Description to be added.

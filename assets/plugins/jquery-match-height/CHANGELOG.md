@@ -1,6 +1,6 @@
 # jquery.matchHeight.js Changelog
 
-[brm.io/jquery-match-height](http://brm.io/jquery-match-height/)
+[brm.io/jquery-match-height](https://brm.io/jquery-match-height/)
 
 ----------
 

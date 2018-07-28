@@ -95,7 +95,7 @@ jQuery.ready.promise = function( obj ) {
 
 		// Catch cases where $(document).ready() is called after the browser event has already occurred.
 		// we once tried to use readyState "interactive" here, but it caused issues like the one
-		// discovered by ChrisS here: http://bugs.jquery.com/ticket/12282#comment:15
+		// discovered by ChrisS here: https://bugs.jquery.com/ticket/12282#comment:15
 		if ( document.readyState === "complete" ) {
 			// Handle it asynchronously to allow scripts the opportunity to delay ready
 			setTimeout( jQuery.ready );
@@ -130,7 +130,7 @@ jQuery.ready.promise = function( obj ) {
 
 						try {
 							// Use the trick by Diego Perini
-							// http://javascript.nwbox.com/IEContentLoaded/
+							// https://javascript.nwbox.com/IEContentLoaded/
 							top.doScroll("left");
 						} catch(e) {
 							return setTimeout( doScrollCheck, 50 );

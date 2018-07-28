@@ -3,13 +3,13 @@
 > *matchHeight* makes the height of all selected elements exactly equal.<br>
 It handles many edge cases that cause similar plugins to fail.
 
-[brm.io/jquery-match-height](http://brm.io/jquery-match-height/)
+[brm.io/jquery-match-height](https://brm.io/jquery-match-height/)
 
 ### Demo
 
-See the [jquery.matchHeight.js demo](http://brm.io/jquery-match-height-demo).
+See the [jquery.matchHeight.js demo](https://brm.io/jquery-match-height-demo).
 
-[![jquery.matchHeight.js screenshot](http://brm.io/img/content/jquery-match-height/jquery-match-height.png)](http://brm.io/jquery-match-height-demo)
+[![jquery.matchHeight.js screenshot](https://brm.io/img/content/jquery-match-height/jquery-match-height.png)](https://brm.io/jquery-match-height-demo)
 
 ### Features
 
@@ -33,12 +33,12 @@ Please report any [issues](https://github.com/liabru/jquery-match-height/issues)
 
 ### Install
 
-[jQuery](http://jquery.com/download/) is required, so include it first.
+[jQuery](https://jquery.com/download/) is required, so include it first.
 <br>Download [jquery.matchHeight.js](https://github.com/liabru/jquery-match-height/blob/master/jquery.matchHeight.js) and include the script in your HTML file:
 
 	<script src="jquery.matchHeight.js" type="text/javascript"></script>
 
-#### Or install using [Bower](http://bower.io/)
+#### Or install using [Bower](https://bower.io/)
 
 	bower install matchHeight
 
@@ -47,7 +47,7 @@ Please report any [issues](https://github.com/liabru/jquery-match-height/issues)
 	$(elements).matchHeight(byRow);
 
 Where `byRow` is a boolean that enables or disables row detection, default is `true`.<br>
-You should apply this on the [DOM ready](http://api.jquery.com/ready/) event.
+You should apply this on the [DOM ready](https://api.jquery.com/ready/) event.
 
 See the included [test.html](https://github.com/liabru/jquery-match-height/blob/master/test.html) for a working example.
 
@@ -143,7 +143,7 @@ You should ensure that there are no transitions or other animations that will de
 
 #### Delayed webfonts may cause incorrect height
 
-Some browsers [do not wait](http://www.stevesouders.com/blog/2009/10/13/font-face-and-performance/) for webfonts to load before firing the window load event, so if the font loads too slowly the plugin may produce unexpected results.
+Some browsers [do not wait](https://www.stevesouders.com/blog/2009/10/13/font-face-and-performance/) for webfonts to load before firing the window load event, so if the font loads too slowly the plugin may produce unexpected results.
 
 If this is a problem, you should call `_update` once your font has loaded by using something like the [webfontloader](https://github.com/typekit/webfontloader) script.
 
@@ -157,7 +157,7 @@ To see what's new or changed in the latest version, see the [changelog](https://
 
 ### License
 
-jquery.matchHeight.js is licensed under [The MIT License (MIT)](http://opensource.org/licenses/MIT)
+jquery.matchHeight.js is licensed under [The MIT License (MIT)](https://opensource.org/licenses/MIT)
 <br/>Copyright (c) 2014 Liam Brummitt
 
 This license is also supplied with the release and source code.
@@ -165,6 +165,6 @@ This license is also supplied with the release and source code.
 
 ##### Why not use CSS?
 
-Making robust, responsive equal height columns for _arbitrary content_ is [difficult or impossible](http://filamentgroup.com/lab/setting_equal_heights_with_jquery/) to do with CSS alone (at least without hacks or trickery, in a backwards compatible way).
+Making robust, responsive equal height columns for _arbitrary content_ is [difficult or impossible](https://filamentgroup.com/lab/setting_equal_heights_with_jquery/) to do with CSS alone (at least without hacks or trickery, in a backwards compatible way).
 
 Note you should probably ensure your layout is still usable if JavaScript is disabled.

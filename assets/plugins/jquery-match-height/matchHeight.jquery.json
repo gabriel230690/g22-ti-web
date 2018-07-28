@@ -13,7 +13,7 @@
     "version": "0.5.2",
     "author": {
         "name": "liabru",
-        "url": "http://brm.io"
+        "url": "https://brm.io"
     },
     "licenses": [
         {
@@ -21,10 +21,10 @@
             "url": "https://github.com/liabru/jquery-match-height/blob/master/LICENSE"
         }
     ],
-    "demo": "http://brm.io/jquery-match-height-demo/",
+    "demo": "https://brm.io/jquery-match-height-demo/",
     "bugs": "https://github.com/liabru/jquery-match-height/issues",
-    "homepage": "http://brm.io/jquery-match-height/",
-    "docs": "http://brm.io/jquery-match-height/",
+    "homepage": "https://brm.io/jquery-match-height/",
+    "docs": "https://brm.io/jquery-match-height/",
     "download": "https://github.com/liabru/jquery-match-height",
     "dependencies": {
         "jquery": ">=1.5"
