@@ -14,7 +14,7 @@
     <meta name="description"
           content="G22 TI - Software e plataforma de delivery para Restaurantes, Pizzarias , Lanchonetes , etc. Programa web, mobile e app para recebimento de pedidos online e marketplace.">
     <meta name="keywords"
-          content="sistemas delivery , aplicativos delivery, app delivery, marketplace , plataforma delivery, pedidos online">
+          content="sistema delivery , aplicativos delivery, app delivery, marketplace , plataforma delivery, pedidos online, restaurante plataforma, pizzaria plataforma">
 
     <meta name="country" content="br">
     <meta content="pt-br" http-equiv="Content-Language"/>
@@ -110,8 +110,8 @@
     <div class="container">
         <div class="row">
             <div class="overview col-md-8 col-sm-12 col-xs-12">
-                <h2 class="title">Desenvolvimento de sistemas para pedidos online para qualquer tipo de estabelecimento.
-                    <br/><br/>Pode ser utilizada para um estabelecimento ou para vários como marketplace.</h2>
+                <h2 class="title">Receba pedidos ilimitados, sem comissões, no seu próprio aplicativo delivery.
+                    <br/><br/>Plataforma delivery completa para recebimento de pedidos via aplicativo e site!.</h2>
                 <ul class="summary">
                     <li>APP para iOS</li>
                     <li>APP para Android</li>
