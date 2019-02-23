@@ -110,8 +110,8 @@
     <div class="container">
         <div class="row">
             <div class="overview col-md-8 col-sm-12 col-xs-12">
-                <h2 class="title">Receba pedidos ilimitados, sem comissões, no seu próprio aplicativo delivery.
-                    <br/><br/>Plataforma delivery completa para recebimento de pedidos via aplicativo e site!.</h2>
+                <h2 class="title">Receba pedidos ilimitados, sem pagar comissões, no seu próprio aplicativo delivery.
+                    <br/><br/>Plataforma delivery completa para recebimento de pedidos via aplicativo e site!</h2>
                 <ul class="summary">
                     <li>APP para iOS</li>
                     <li>APP para Android</li>
@@ -275,13 +275,18 @@
                 <div class="quote-box">
 
                     <blockquote class="quote">
-                        <a href="https://www.facebook.com/garconline1/" target="_blank"/>
-                        @GarconLine</a> Agora fazer o seu pedido nos restaurantes de Brasília vai ser muito mais prático
-                        com o app #garçonline você mesmo faz o seu pedido e recebe na mesa ou no conforto da sua casa!
+                        <a href="https://www.facebook.com/Cliqui.com.br/" target="_blank"/>
+                        @Cliqui</a> Agora fazer o seu pedido nos restaurantes de Palmas - TO vai ser muito mais prático
+                        com o app #cliqui você mesmo faz o seu pedido e recebe na mesa ou no conforto da sua casa!
                         <br/>
 
+                        <a href="https://itunes.apple.com/us/app/cliqui/id1383252106?l=es&ls=1&mt=8"
+                           target="_blank"
+                           style="cursor:pointer;"> iOS </a>
                         &nbsp;
-                        <a href="https://play.google.com/store/apps/details?id=com.garconlineapp" target="_blank"
+
+                        &nbsp;
+                        <a href="https://play.google.com/store/apps/details?id=com.cliquiapp" target="_blank"
                            style="cursor:pointer;"> Android </a>
 
                     </blockquote>
@@ -290,11 +295,11 @@
                 <!--//quote-box-->
                 <div class="people row">
                     <img class="img-rounded user-pic col-md-5 col-sm-5 col-xs-12 col-md-offset-1 col-sm-offset-1"
-                         src="assets/images/clientes/garcon.png" style="width:40px; height: 40px;" alt=""/>
+                         src="assets/images/clientes/cliqui.png" style="width:40px; height: 40px;" alt=""/>
 
                     <p class="details text-center pull-left">
-                        <span class="name">GarçonLine</span>
-                        <span class="title">Brasília, DF</span>
+                        <span class="name">Cliqui</span>
+                        <span class="title">Palmas, TO</span>
                     </p>
                 </div>
                 <!--//people-->
@@ -526,5 +531,4 @@
 <script type="text/javascript" src="assets/js/animations.js"></script>
 <!--<![endif]-->
 </body>
-</html> 
-
+</html>
