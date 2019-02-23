@@ -83,13 +83,13 @@
                     <li class="nav-item last"><a class="scrollto" href="#contact">Contato</a></li>
 
                     <li class="nav-item last"><a class="scrollto" href="#"
-                                                 onclick="window.open('https://www.youtube.com/watch?v=r-GXrYFT3DA/');">Video</a>
+                                                 onclick="window.open('https://www.youtube.com/watch?v=YfWexoAyyNI&t=480s');">Video</a>
                     </li>
 
                     <li class="nav-item last"><a class="scrollto" href="#"
-                                                 onclick="window.open('https://ehojeapp.com.br/home/');">Testar</a></li>
+                                                 onclick="window.open('https://maisdeliveryapp.com.br/');">Testar</a></li>
                     <li class="nav-item last"><a class="scrollto" href="#"
-                                                 onclick="window.open('https://produto.mercadolivre.com.br/MLB-961511224-sistema-delivery-app-web-com-codigo-fonte-_JM');">Comprar</a>
+                                                 onclick="window.open('https://produto.mercadolivre.com.br/MLB-1178611992-mais-delivery-app-pedidos-online-marketplace-_JM#reco_item_pos=0&reco_backend=navigation_machinalis-v2p&reco_backend_type=function&reco_client=navigation_homes&reco_id=0a531467-36aa-4482-9318-5982e204e087&c_id=/home/navigation-recommendations/element&c_element_order=1');">Comprar</a>
                     </li>
 
 
@@ -308,15 +308,15 @@
             <div class="item col-md-4 col-sm-4">
                 <div class="quote-box">
                     <blockquote class="quote">
-                        <a href="https://www.facebook.com/MenuButeco/" target="_blank">@Menu de Buteco</a> App delivery
-                        de alimentos e bebidas em Júiz de Fora , MG. Você tem fome de quê?
+                        <a href="https://www.listacityshop.com.br" target="_blank">@ListaCityShop</a> App delivery
+                        de alimentos, gás , flores , entre outros no Rio Grande do Sul.
 
                         <br/>
-                        <a href="https://itunes.apple.com/us/app/menu-de-buteco/id1317755362?l=es&ls=1&mt=8"
+                        <a href="https://itunes.apple.com/us/app/listacity-shop/id1414353826?l=es&ls=1&mt=8"
                            target="_blank"
                            style="cursor:pointer;"> iOS </a>
                         &nbsp;
-                        <a href="https://play.google.com/store/apps/details?id=com.menudebuteco" target="_blank"
+                        <a href="https://play.google.com/store/apps/details?id=com.listacityshop" target="_blank"
                            style="cursor:pointer;"> Android </a>
 
 
@@ -327,12 +327,12 @@
                 <div class="people row">
 
                     <img class="img-rounded user-pic col-md-5 col-sm-5 col-xs-12 col-md-offset-1 col-sm-offset-1"
-                         src="assets/images/clientes/menu_buteco.png" style="width:40px; height: 40px;" alt=""/>
+                         src="assets/images/clientes/listacity.png" style="width:40px; height: 40px;" alt=""/>
 
 
                     <p class="details text-center pull-left">
-                        <span class="name">Menu de Buteco</span>
-                        <span class="title">Juíz de Fora, MG</span>
+                        <span class="name">Lista City Shop</span>
+                        <span class="title">Dois Irmãos, RS</span>
                     </p>
                 </div>
                 <!--//people-->
