@@ -458,7 +458,8 @@
                 <ul class="list-unstyled contact-details">
                     <li><i class="fa fa-envelope"></i><a href="mailto:contato@g22ti.com.br">contato@g22ti.com.br</a>
                     </li>
-                    <li><i class="fa fa-phone-square"></i>(47) 99170-1295</li>
+                    <li><i class="fa fa-phone-square"></i><a href="http://api.whatsapp.com/send?1=pt_BR&phone=47991701295">Fale com a gente no WhatsApp!</a>
+                    </li>
                 </ul>
             </div>
         </div>
