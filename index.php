@@ -56,7 +56,7 @@
 <!-- ******HEADER****** -->
 <header id="top" class="header navbar-fixed-top">
 
-  <a href="https://api.whatsapp.com/send?l=pt&amp;phone=5547991701295"><img src="https://i.imgur.com/XMsxHpu.png" style="height:80px; position:fixed; bottom: 25px; right: 25px; z-index:100;" data-selector="img"></a>
+  <a href="https://api.whatsapp.com/send?l=pt&amp;phone=5547991701295"><img src="assets/img/whatsapp.png" style="height:80px; position:fixed; bottom: 25px; right: 25px; z-index:100;" data-selector="img"></a>
 
     <div class="container">
         <h1 class="logo pull-left">
