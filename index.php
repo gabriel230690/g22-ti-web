@@ -240,39 +240,34 @@
         <div class="row">
             <h2 class="title text-center">CLIENTES</h2>
 
-
             <div class="item col-md-4 col-sm-4">
                 <div class="quote-box">
-
                     <blockquote class="quote">
-                        <a href="https://www.facebook.com/PediuComeuApp/" target="_blank"/>
-                        @Pediu Comeu</a> Se a vida já era facilitada pela possibilidade de pedir pizza, hambúrguer ou
-                        comida japonesa pelo telefone imagina agora com o aplicativo #pediucomeu na cidade de Assis em
-                        São Paulo, eles já estão aproveitando essa facilidade.
+                        <a href="https://maisdeliveryapp.com.br/h/" target="_blank">Mais Delivery</a>&nbsp;Aplicativo de marketplace presente em mais de 50 cidades do Brasil.
+                        Ele vai vai facilitar sua vida, peça pelo app e só passe pra pegar ou receba no conforto da sau
+                        casa.
                         <br/>
-                        <a href="https://itunes.apple.com/us/app/pediu-comeu/id1161176385?l=es&ls=1&mt=8"
+                        <a href="https://itunes.apple.com/us/app/mais-delivery-app/id1451845849?l=pt&ls=1&mt=8"
                            target="_blank"
                            style="cursor:pointer;"> iOS </a>
                         &nbsp;
-                        <a href="https://play.google.com/store/apps/details?id=com.pediu&hl=pt_BR" target="_blank"
+                        <a href="https://play.google.com/store/apps/details?id=com.maisdelivery" target="_blank"
                            style="cursor:pointer;"> Android </a>
-
                     </blockquote>
                     <!--//quote-->
                 </div>
                 <!--//quote-box-->
                 <div class="people row">
                     <img class="img-rounded user-pic col-md-5 col-sm-5 col-xs-12 col-md-offset-1 col-sm-offset-1"
-                         src="assets/images/clientes/pediu_comeu.png" alt=""/>
+                         src="assets/images/clientes/mais_delivery.png" style="height: 50px; width: 50px;"/>
 
                     <p class="details text-center pull-left">
-                        <span class="name">Pediu Comeu</span>
-                        <span class="title">Assis, SP</span>
+                        <span class="name">Mais Delivery</span>
+                        <span class="title">Seu pedido é uma ordem</span>
                     </p>
                 </div>
                 <!--//people-->
             </div>
-
 
             <div class="item col-md-4 col-sm-4">
                 <div class="quote-box">
@@ -411,28 +406,31 @@
             <!--//item-->
             <div class="item col-md-4 col-sm-4">
                 <div class="quote-box">
+
                     <blockquote class="quote">
-                        <a href="https://maisdeliveryapp.com.br/h/" target="_blank">Mais Delivery</a>&nbsp;Aplicativo de marketplace presente em mais de 50 cidades do Brasil.
-                        Ele vai vai facilitar sua vida, peça pelo app e só passe pra pegar ou receba no conforto da sau
-                        casa.
+                        <a href="https://www.facebook.com/PediuComeuApp/" target="_blank"/>
+                        @Pediu Comeu</a> Se a vida já era facilitada pela possibilidade de pedir pizza, hambúrguer ou
+                        comida japonesa pelo telefone imagina agora com o aplicativo #pediucomeu na cidade de Assis em
+                        São Paulo, eles já estão aproveitando essa facilidade.
                         <br/>
-                        <a href="https://itunes.apple.com/us/app/mais-delivery-app/id1451845849?l=pt&ls=1&mt=8"
+                        <a href="https://itunes.apple.com/us/app/pediu-comeu/id1161176385?l=es&ls=1&mt=8"
                            target="_blank"
                            style="cursor:pointer;"> iOS </a>
                         &nbsp;
-                        <a href="https://play.google.com/store/apps/details?id=com.maisdelivery" target="_blank"
+                        <a href="https://play.google.com/store/apps/details?id=com.pediu&hl=pt_BR" target="_blank"
                            style="cursor:pointer;"> Android </a>
+
                     </blockquote>
                     <!--//quote-->
                 </div>
                 <!--//quote-box-->
                 <div class="people row">
                     <img class="img-rounded user-pic col-md-5 col-sm-5 col-xs-12 col-md-offset-1 col-sm-offset-1"
-                         src="assets/images/clientes/mais_delivery.png" style="height: 50px; width: 50px;"/>
+                         src="assets/images/clientes/pediu_comeu.png" alt=""/>
 
                     <p class="details text-center pull-left">
-                        <span class="name">Mais Delivery</span>
-                        <span class="title">Seu pedido é uma ordem</span>
+                        <span class="name">Pediu Comeu</span>
+                        <span class="title">Assis, SP</span>
                     </p>
                 </div>
                 <!--//people-->
