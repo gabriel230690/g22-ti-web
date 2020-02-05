@@ -56,8 +56,6 @@
 <!-- ******HEADER****** -->
 <header id="top" class="header navbar-fixed-top">
 
-  <a href="https://api.whatsapp.com/send?l=pt&amp;phone=5547991701295"><img src="assets/images/whatsapp.png" style="height:80px; position:fixed; bottom: 25px; right: 25px; z-index:100;" data-selector="img"></a>
-
     <div class="container">
         <h1 class="logo pull-left">
             <a class="scrollto" href="#promo">
@@ -455,8 +453,6 @@
                     agora mesmo.</p>
                 <ul class="list-unstyled contact-details">
                     <li><i class="fa fa-envelope"></i><a href="mailto:contato@g22ti.com.br">contato@g22ti.com.br</a>
-                    </li>
-                    <li><i class="fa fa-phone-square"></i><a href="http://api.whatsapp.com/send?1=pt_BR&phone=5547991701295">Dê click aqui para falar com a gente no WhatsApp! (47) 99170-1295</a>
                     </li>
                 </ul>
             </div>
