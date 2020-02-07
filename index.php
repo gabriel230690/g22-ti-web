@@ -401,7 +401,7 @@
                         <span class="title">Maceió, AL</span>
                     </p>
                 </div>
-                <!--//people-->
+                <!--//people--> 
             </div>
             <!--//item-->
             <div class="item col-md-4 col-sm-4">
