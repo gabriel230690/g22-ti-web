@@ -111,7 +111,7 @@
     <div class="container">
         <div class="row">
             <div class="overview col-md-8 col-sm-12 col-xs-12">
-                <h2 class="title">Receba pedidos ilimitados, sem pagar comissões, no seu próprio aplicativo delivery.
+                <h2 class="title">Receba pedidos ilimitados, sem pagar comissões, no Mais Delivery.
                     <br/><br/>Plataforma delivery completa para recebimento de pedidos via aplicativo e site!</h2>
                 <ul class="summary">
                     <li>APP para iOS</li>
@@ -267,177 +267,10 @@
                 <!--//people-->
             </div>
 
-            <div class="item col-md-4 col-sm-4">
-                <div class="quote-box">
 
-                    <blockquote class="quote">
-                        <a href="https://www.facebook.com/Cliqui.com.br/" target="_blank"/>
-                        @Cliqui</a> Agora fazer o seu pedido nos restaurantes de Palmas - TO vai ser muito mais prático
-                        com o app #cliqui você mesmo faz o seu pedido e recebe na mesa ou no conforto da sua casa!
-                        <br/>
-
-                        <a href="https://itunes.apple.com/us/app/cliqui/id1383252106?l=es&ls=1&mt=8"
-                           target="_blank"
-                           style="cursor:pointer;"> iOS </a>
-                        &nbsp;
-
-                        &nbsp;
-                        <a href="https://play.google.com/store/apps/details?id=com.cliquiapp" target="_blank"
-                           style="cursor:pointer;"> Android </a>
-
-                    </blockquote>
-                    <!--//quote-->
-                </div>
-                <!--//quote-box-->
-                <div class="people row">
-                    <img class="img-rounded user-pic col-md-5 col-sm-5 col-xs-12 col-md-offset-1 col-sm-offset-1"
-                         src="assets/images/clientes/cliqui.png" style="width:40px; height: 40px;" alt=""/>
-
-                    <p class="details text-center pull-left">
-                        <span class="name">Cliqui</span>
-                        <span class="title">Palmas, TO</span>
-                    </p>
-                </div>
-                <!--//people-->
-            </div>
-            <!--//item-->
-            <div class="item col-md-4 col-sm-4">
-                <div class="quote-box">
-                    <blockquote class="quote">
-                        <a href="https://www.listacityshop.com.br" target="_blank">@ListaCityShop</a> App delivery
-                        de alimentos, gás , flores , entre outros no Rio Grande do Sul.
-
-                        <br/>
-                        <a href="https://itunes.apple.com/us/app/listacity-shop/id1414353826?l=es&ls=1&mt=8"
-                           target="_blank"
-                           style="cursor:pointer;"> iOS </a>
-                        &nbsp;
-                        <a href="https://play.google.com/store/apps/details?id=com.listacityshop" target="_blank"
-                           style="cursor:pointer;"> Android </a>
-
-
-                    </blockquote>
-                    <!--//quote-->
-                </div>
-                <!--//quote-box-->
-                <div class="people row">
-
-                    <img class="img-rounded user-pic col-md-5 col-sm-5 col-xs-12 col-md-offset-1 col-sm-offset-1"
-                         src="assets/images/clientes/listacity.png" style="width:40px; height: 40px;" alt=""/>
-
-
-                    <p class="details text-center pull-left">
-                        <span class="name">Lista City Shop</span>
-                        <span class="title">Dois Irmãos, RS</span>
-                    </p>
-                </div>
-                <!--//people-->
-            </div>
-        </div>
-        <!--//row-->
-        <div class="row">
-
-            <!--//item-->
-            <div class="item col-md-4 col-sm-4">
-                <div class="quote-box">
-                    <blockquote class="quote">
-                        <a href="https://www.facebook.com/compreeasy.oficial/" target="_blank"/>
-                        @Compre Easy</a> O app #compreeasy veio para facilitar a sua ida ao mercado em Goiânia você pede
-                        pelo
-                        app e recebe as suas compras em casa!
-
-                        <br/>
-                        <a href="https://itunes.apple.com/us/app/compre-easy/id1386297970?l=es&ls=1&mt=8"
-                           target="_blank"
-                           style="cursor:pointer;"> iOS </a>
-                        &nbsp;
-                        <a href="https://play.google.com/store/apps/details?id=com.compreeasyapp" target="_blank"
-                           style="cursor:pointer;"> Android </a>
-
-
-                    </blockquote>
-                    <!--//quote-->
-                </div>
-                <!--//quote-box-->
-                <div class="people row">
-                    <img class="img-rounded user-pic col-md-5 col-sm-5 col-xs-12 col-md-offset-1 col-sm-offset-1"
-                         src="assets/images/clientes/compreeasy.png" style="height:50px; width:50px;" alt=""/>
-
-                    <p class="details text-center pull-left">
-                        <span class="name">Compre Easy</span>
-                        <span class="title">Goiânia, GO</span>
-                    </p>
-                </div>
-                <!--//people-->
-            </div>
-            <!--//item-->
-
-            <div class="item col-md-4 col-sm-4">
-                <div class="quote-box">
-                    <blockquote class="quote">
-                        <a href="https://www.facebook.com/tubebmcz/" target="_blank">
-                            @TuBeb</a> Diversão por um clique? Aqui na TuBeb achamos uma troca justa, por isso levaremos
-                        isso até vocês. 🍺🍸🥂🍷
-                        <br/>
-                        <a href="https://itunes.apple.com/us/app/tubeb/id1349310663?l=es&ls=1&mt=8" target="_blank"
-                           style="cursor:pointer;"> iOS </a>
-                        &nbsp;
-                        <a href="https://play.google.com/store/apps/details?id=com.tubeb" target="_blank"
-                           style="cursor:pointer;"> Android </a>
-
-
-                    </blockquote>
-                    <!--//quote-->
-                </div>
-                <!--//quote-box-->
-                <div class="people row">
-                    <img class="img-rounded user-pic col-md-5 col-sm-5 col-xs-12 col-md-offset-1 col-sm-offset-1"
-                         src="assets/images/clientes/tubeb.jpg" style="height:50px; width:50px;"/>
-
-                    <p class="details text-center pull-left">
-                        <span class="name">TuBeb</span>
-                        <span class="title">Maceió, AL</span>
-                    </p>
-                </div>
-                <!--//people--> 
-            </div>
-            <!--//item-->
-            <div class="item col-md-4 col-sm-4">
-                <div class="quote-box">
-
-                    <blockquote class="quote">
-                        <a href="https://www.facebook.com/PediuComeuApp/" target="_blank"/>
-                        @Pediu Comeu</a> Se a vida já era facilitada pela possibilidade de pedir pizza, hambúrguer ou
-                        comida japonesa pelo telefone imagina agora com o aplicativo #pediucomeu na cidade de Assis em
-                        São Paulo, eles já estão aproveitando essa facilidade.
-                        <br/>
-                        <a href="https://itunes.apple.com/us/app/pediu-comeu/id1161176385?l=es&ls=1&mt=8"
-                           target="_blank"
-                           style="cursor:pointer;"> iOS </a>
-                        &nbsp;
-                        <a href="https://play.google.com/store/apps/details?id=com.pediu&hl=pt_BR" target="_blank"
-                           style="cursor:pointer;"> Android </a>
-
-                    </blockquote>
-                    <!--//quote-->
-                </div>
-                <!--//quote-box-->
-                <div class="people row">
-                    <img class="img-rounded user-pic col-md-5 col-sm-5 col-xs-12 col-md-offset-1 col-sm-offset-1"
-                         src="assets/images/clientes/pediu_comeu.png" alt=""/>
-
-                    <p class="details text-center pull-left">
-                        <span class="name">Pediu Comeu</span>
-                        <span class="title">Assis, SP</span>
-                    </p>
-                </div>
-                <!--//people-->
-            </div>
-            <!--//item-->
         </div>
 
-
-    </div>
+</div>
     <!--//container-->
 </section>
 <!--//Testimonials-->
