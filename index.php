@@ -261,7 +261,7 @@
 
                     <p class="details text-center pull-left">
                         <span class="name">Mais Delivery</span>
-                        <span class="title">Seu pedido é uma ordem</span>
+                        <span class="title">Seu pedido é uma ordem!!</span>
                     </p>
                 </div>
                 <!--//people-->
