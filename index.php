@@ -1,9 +1,9 @@
+<?php
+  header("Location:  https://maisdeliveryapp.com.br");
+?>
+
+<!--
 <!DOCTYPE html>
-<!--[if IE 8]>
-<html lang="en" class="ie8"> <![endif]-->
-<!--[if IE 9]>
-<html lang="en" class="ie9"> <![endif]-->
-<!--[if !IE]><!-->
 <html lang="en">
 <head>
     <title>G22 TI - Plataforma de Delivery</title>
@@ -53,7 +53,6 @@
 
 
 <body data-spy="scroll">
-<!-- ******HEADER****** -->
 <header id="top" class="header navbar-fixed-top">
 
     <div class="container">
@@ -62,7 +61,7 @@
                 <img id="logo-image" class="logo-image" src="assets/images/logo/logo.png" alt="Logo">
                 <span class="logo-title"></span>
             </a>
-        </h1><!--//logo-->
+        </h1>
         <nav id="main-nav" class="main-nav navbar-right" role="navigation">
             <div class="navbar-header">
                 <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-collapse">
@@ -71,10 +70,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <!--//nav-toggle-->
             </div>
-            <!--//navbar-header-->
-
 
             <div class="navbar-collapse collapse" id="navbar-collapse">
                 <ul class="nav navbar-nav">
@@ -95,18 +91,11 @@
 
 
                 </ul>
-                <!--//nav-->
             </div>
-
-
-            <!--//navabr-collapse-->
         </nav>
-        <!--//main-nav-->
     </div>
 </header>
-<!--//header-->
 
-<!-- ******PROMO****** -->
 <section id="promo" class="promo section offset-header has-pattern">
     <div class="container">
         <div class="row">
@@ -120,25 +109,15 @@
                     <li>Painel web para gerenciar</li>
                 </ul>
             </div>
-            <!--//overview-->
-
-            <!--// iPhone starts -->
             <div class="phone iphone iphone-black col-md-4 col-sm-12 col-xs-12 ">
 
                 <img src="assets/images/iphone/mobile-app.png" alt=""/>
 
-
             </div>
-            <!--//iphone-->
-            <!--// iPhone ends -->
         </div>
-        <!--//row-->
     </div>
-    <!--//container-->
 </section>
-<!--//promo-->
 
-<!-- ******SERVICOS****** -->
 <section id="features" class="features section">
     <div class="container">
         <div class="row">
@@ -148,7 +127,6 @@
                 <div class="icon">
                     <img src="assets/images/buttons/btn_usuario.png" style="margin-top:7px; max-width: 77px;">
                 </div>
-                <!--//icon-->
                 <div class="content text-content">
                     <h3 class="title">Usuário final</h3>
 
@@ -171,14 +149,11 @@
 
 
                 </div>
-                <!--//content-->
             </div>
-            <!--//item-->
             <div class="item col-md-4 col-sm-6 col-xs-12 text-center">
                 <div class="icon">
                     <img src="assets/images/buttons/estabelecimento.png" style="margin-top:10px; max-width: 70px;">
                 </div>
-                <!--//icon-->
                 <div class="content text-content">
                     <h3 class="title">Estabelecimento</h3>
 
@@ -194,15 +169,12 @@
                     </ul>
 
                 </div>
-                <!--//content-->
             </div>
-            <!--//item-->
             <div class="item col-md-4 col-sm-6 col-xs-12 text-center">
                 <div class="icon">
                     <img src="assets/images/buttons/administrador.png" style="margin-top:0px; max-width:80px;">
 
                 </div>
-                <!--//icon-->
                 <div class="content text-content">
                     <h3 class="title">Administrador da plataforma</h3>
 
@@ -221,18 +193,13 @@
 
 
                 </div>
-                <!--//content-->
             </div>
 
         </div>
-        <!--//row-->
 
     </div>
-    <!--//container-->
 </section>
-<!--//features-->
 
-<!-- ******CLIENTES****** -->
 <section id="testimonials" class="testimonials section">
     <div class="container">
         <div class="row">
@@ -252,9 +219,7 @@
                         <a href="https://play.google.com/store/apps/details?id=com.maisdelivery" target="_blank"
                            style="cursor:pointer;"> Android </a>
                     </blockquote>
-                    <!--//quote-->
                 </div>
-                <!--//quote-box-->
                 <div class="people row">
                     <img class="img-rounded user-pic col-md-5 col-sm-5 col-xs-12 col-md-offset-1 col-sm-offset-1"
                          src="assets/images/clientes/mais_delivery.png" style="height: 50px; width: 50px;"/>
@@ -264,18 +229,11 @@
                         <span class="title">Seu pedido é uma ordem</span>
                     </p>
                 </div>
-                <!--//people-->
             </div>
-
-
         </div>
-
 </div>
-    <!--//container-->
 </section>
-<!--//Testimonials-->
 
-<!-- ******CONTACT****** -->
 <section id="contact" class="contact section has-pattern">
     <div class="container">
         <div class="row text-center">
@@ -290,7 +248,6 @@
                 </ul>
             </div>
         </div>
-        <!--//row-->
         <div class="row text-center">
             <div class="contact-form col-md-6 col-sm-12 col-xs-12 col-md-offset-3">
                 <form class="form">
@@ -298,7 +255,6 @@
                         <label class="sr-only" for="name">Nome</label>
                         <input id="name" type="text" class="form-control" placeholder="Nome:">
                     </div>
-                    <!--//form-group-->
                     <div class="form-group email">
                         <label class="sr-only" for="email">Email</label>
                         <input id="email" type="email" class="form-control" placeholder="Email:">
@@ -307,43 +263,30 @@
                         <label class="sr-only" for="telefone">Telefone</label>
                         <input id="telefone" type="telefone" class="form-control" placeholder="Telefone com DDD:">
                     </div>
-                    <!--//form-group-->
                     <div class="form-group message">
                         <label class="sr-only" for="message">Mensagem</label>
                         <textarea id="message" class="form-control" rows="6" placeholder="Mensagem:"></textarea>
                     </div>
-                    <!--//form-group-->
                     <button type="button" id="btnMensagem" class="btn btn-lg btn-theme">Enviar Mensagem</button>
                 </form>
-                <!--//form-->
             </div>
-            <!--//contact-form-->
         </div>
-        <!--//row-->
         <div class="text-center">
             <ul class="social-icons list-inline">
                 <li><a href="https://facebook.com/g22ti" target="_blank"><i class="fa fa-facebook"></i></a></li>
             </ul>
-            <!--//social-icons-->
         </div>
-        <!--//row-->
     </div>
-    <!--//container-->
 </section>
-<!--//contact-->
 
-<!-- ******FOOTER****** -->
 <footer class="footer">
     <div class="container">
-        <small class="copyright pull-left"><?php echo date("Y"); ?> G22 TI. Todos os direitos reservados. Blumenau/SC.
+        <small class="copyright pull-left"><?php //echo date("Y"); ?> G22 TI. Todos os direitos reservados. Blumenau/SC.
             &nbsp;
         </small>
     </div>
 </footer>
-<!--//footer-->
 
-
-<!-- Javascript -->
 <script type="text/javascript" src="assets/plugins/jquery-1.12.3.min.js"></script>
 <script type="text/javascript" src="assets/plugins/isMobile/isMobile.min.js"></script>
 <script type="text/javascript" src="assets/plugins/jquery.easing.1.3.js"></script>
@@ -355,8 +298,7 @@
 <script type="text/javascript" src="assets/plugins/flexslider/jquery.flexslider-min.js"></script>
 <script type="text/javascript" src="assets/plugins/jquery-match-height/jquery.matchHeight-min.js"></script>
 <script type="text/javascript" src="assets/js/main.js?id=<? echo rand(); ?>"></script>
-<!--[if !IE]>-->
 <script type="text/javascript" src="assets/js/animations.js"></script>
-<!--<![endif]-->
 </body>
 </html>
+-->
